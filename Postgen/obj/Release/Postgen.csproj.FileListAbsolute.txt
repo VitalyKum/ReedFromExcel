@@ -1,0 +1,10 @@
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\bin\Release\Postgen.exe.config
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\bin\Release\Postgen.exe
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\bin\Release\Postgen.pdb
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\obj\Release\Postgen.Form1.resources
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\obj\Release\Postgen.Properties.Resources.resources
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\obj\Release\Postgen.csproj.GenerateResource.Cache
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\obj\Release\Postgen.exe
+C:\Users\Виталий\documents\visual studio 2015\Projects\Postgen\Postgen\obj\Release\Postgen.pdb
+C:\Users\Виталий\Documents\Visual Studio 2015\Projects\Postgen\Postgen\obj\Release\Postgen.frmCorrect.resources
+C:\Users\Виталий\Documents\Visual Studio 2015\Projects\Postgen\Postgen\obj\Release\Postgen.csprojResolveAssemblyReference.cache
